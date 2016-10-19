@@ -1,5 +1,5 @@
 {
-    "value": "K00"
+    "value": "K00",
     "text": "Disorders of tooth development and eruption",
     "diagnosis": [{
         "value":"K00.0",
@@ -37,11 +37,11 @@
     "value":"K01",
     "text":"Embedded and impacted teeth",
     "diagnosis":[{
-        "value":"K01.0"
+        "value":"K01.0",
         "text":"Embedded teeth"
     },
     {
-        "value":"K01.1"
+        "value":"K01.1",
         "text":"Impacted teeth"
     },{
         "value":"",
@@ -69,7 +69,7 @@
             "text":"penetrating into pulp"
         }]
     }, {
-        "value":"K02.6"
+        "value":"K02.6",
         "text":"Dental caries on smooth surface",
         "diagnosis":[{
             "value":"K02.61",
