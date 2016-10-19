@@ -1,0 +1,787 @@
+{
+    "value": "K00"
+    "text": "Disorders of tooth development and eruption",
+    "diagnosis": [{
+        "value":"K00.0",
+        "text":"Anodontia"
+    },{
+        "value":"K00.1",
+        "text":"Supernumerary teeth"
+    }, {
+        "value": "K00.2",
+        "text": "Abnormalities of size and form of teeth"
+    }, {
+        "value": "K00.3",
+        "text": "Mottled teeth"
+    }, {
+        "value": "K00.4",
+        "text": "Disturbances in tooth formation"
+    }, {
+        "value": "K00.5",
+        "text": "Hereditary disturbances in tooth structure, not elsewhere classified"
+    }, {
+        "value": "K00.6",
+        "text": "Disturbances in tooth eruption"
+    }, {
+        "value": "K00.7",
+        "text": "Teething syndrome"
+    }, {
+        "value": "K00.8",
+        "text": "Other disorders of tooth development"
+    }, {
+        "value": "K00.9",
+        "text": "Disorder of tooth development, unspecified"
+    }]
+},
+{
+    "value":"K01",
+    "text":"Embedded and impacted teeth",
+    "diagnosis":[{
+        "value":"K01.0"
+        "text":"Embedded teeth"
+    },
+    {
+        "value":"K01.1"
+        "text":"Impacted teeth"
+    },{
+        "value":"",
+        "text":""
+    }]
+},
+{
+
+    "value": "K02",
+    "text": "Dental Caries",
+    "diagnosis":[{
+        "value":"K02.3",
+        "text":"Arrested dental caries"
+    }, {
+        "value":"K02.5",
+        "text":"Dental caries on pit and fissure surface",
+        "diagnosis":[{
+            "value":"K02.51",
+            "text":"limited to enamel"
+        },{
+            "value":"K02.52",
+            "text":"penetrating into dentin"
+        },{
+            "value":"K02.53",
+            "text":"penetrating into pulp"
+        }]
+    }, {
+        "value":"K02.6"
+        "text":"Dental caries on smooth surface",
+        "diagnosis":[{
+            "value":"K02.61",
+            "text":"limited to enamel"
+        },{
+            "value":"K02.62",
+            "text":"penetrating into dentin"
+        },{
+            "value":"K02.63",
+            "text":"penetrating into pulp"
+        }]
+    }, {
+        "value":"K02.7",
+        "text":"Root dental caries"
+    }, {
+        "value":"K02.9",
+        "text":"Dental caries, unspecified"
+    }]
+},
+{
+    "value":"K03",
+    "text":"Other diseases of hard tissues of teeth",
+    "diagnosis":[{
+        "value":"K03.0",
+        "text":"Excessive attrition of teeth"
+    },{
+        "value":"K03.1",
+        "text":"Abrasion of teeth"
+    },{
+        "value":"K03.2",
+        "text":"Erosion of teeth"
+    },{
+        "value":"K03.3",
+        "text":"Pathological resorption of teeth"
+    },{
+        "value":"K03.4",
+        "text":"Hypercementosis"
+    },{
+        "value":"K03.5",
+        "text":"Ankylosis of teeth"
+    },{
+        "value":"K03.6",
+        "text":"Deposits [accretions] on teeth"
+    },{
+        "value":"K03.7",
+        "text":"Posteruptive color changes of dental hard tissues"
+    }, {
+        "value": "K03.8",
+        "text": "Other specified diseases of hard tissues of teeth",
+        "diagnosis": [{
+            "value": "K03.81",
+            "text": "Creacked tooth"
+        }, {
+            "value": "K03.89",
+            "text": "Other specified diseases of hard tissues of teeth"
+        }]
+    }, {
+        "value": "K03.9",
+        "text": "Disease of hard tissues of teeth, unspecified",
+    }]
+},
+{
+    "value":"K04",
+    "text":"Diseases of pulp and periapical tissues",
+    "diagnosis":[{
+        "value":"K04.0",
+        "text":"Pulpits",
+        "diagnosis":[{
+            "value":"K04.01",
+            "text":"Reversible pulpitis"
+        },{
+            "value":"K04.02",
+            "text":" Irreversible pulpitis"
+        }]
+    }, {
+        "value":"K04.1",
+        "text":"Necrosis of pulp"
+    },{
+        "value":"K04.2",
+        "text":"Pulp degeneration"
+    },{
+        "value":"K04.3",
+        "text":"Abnormal hard tissue formation in pulp"
+    },{
+        "value":"K04.4",
+        "text":"Acute apical periodontitis of pulpal origin"
+    },{
+        "value":"K04.5",
+        "text":"Chronic apical periodontitis"
+    },{
+        "value":"K04.6",
+        "text":"Periapical abscess with sinus"
+    },{
+        "value":"K04.7",
+        "text":"Periapical abscess without sinus"
+    },{
+        "value":"K04.8",
+        "text":"Radicular cyst"
+    },{
+        "value":"K04.9",
+        "text":"Other and unspecified diseases of pulp and periapical tissues",
+        "diagnosis":[{
+            "value":"K04.90",
+            "text":"Unspecified diseases of pulp and periapical tissues"
+        }, {
+            "value":"K04.99",
+            "text":"Other diseases of pulp and periapical tissuess"
+        }]
+    }]
+},
+{
+    "value":"K05",
+    "text":"Gingivitis and periodontal diseases",
+    "diagnosis":[{
+        "value":"K05.0",
+        "text":"Acute gingivitis",
+        "diagnosis":[{
+            "value":"K05.00",
+            "text":"plaque induced"
+        }, {
+            "value":"K05.01",
+            "text":"non-plaque induced"
+        }]
+    }, {
+        "value":"K05.1",
+        "text":"Chronic gingivitis",
+        "diagnosis":[{
+            "value":"K05.10",
+            "text":"plaque induced"
+        }, {
+            "value":"K05.11",
+            "text":"non-plaque induced"
+        }]
+    }, {
+        "value":"K05.2",
+        "text":"Aggressive periodontitis",
+        "diagnosis":[{
+            "value":"K05.20",
+            "text":"unspecified"
+        }, {
+            "value":"K05.21",
+            "text":"Aggressive periodontitis, localized",
+            "diagnosis":[{
+                "value":"K05.211",
+                "text":"slight"
+            },{
+                "value":"K05.212",
+                "text":"moderate"
+            },{
+                "value":"K05.213",
+                "text":"severe"
+            },{
+                "value":"K05.219",
+                "text":"unspecified severity"
+            }]
+        }, {
+            "value":"K05.22",
+            "text":"Aggressive periodontitis, generalized",
+            "diagnosis":[{
+                "value":"K05.221",
+                "text":"slight"
+            },{
+                "value":"K05.222",
+                "text":"moderate"
+            },{
+                "value":"K05.22",
+                "text":"severe"
+            },{
+                "value":"K05.229",
+                "text":"unspecified severity"
+            }]
+        }]
+    }, {
+        "value":"K05.3",
+        "text":"Chronic periodontitis",
+        "diagnosis":[{
+            "value":"K05.30",
+            "text":"unspecified"
+        },{
+            "value":"K05.31",
+            "text":"Chronic periodontitis, localized",
+            "diagnosis":[{
+                "value":"K05.311",
+                "text":"slight"
+            },{
+                "value":"K05.312",
+                "text":"moderate"
+            },{
+                "value":"K05.313",
+                "text":"severe"
+            },{
+                "value":"K05.319",
+                "text":"unspecified severity"
+            }]
+        },{
+            "value":"K05.32",
+            "text":"Chronic periodontitis, generalized",
+            "diagnosis":[{
+                "value":"K05.321",
+                "text":"slight"
+            },{
+                "value":"K05.322",
+                "text":"moderate"
+            },{
+                "value":"K05.323",
+                "text":"severe"
+            },{
+                "value":"K05.329",
+                "text":"unspecified severity"
+            }]
+        }]
+    }, {
+        "value":"K05.4",
+        "text":"Periodontosis"
+    }, {
+        "value":"K05.5",
+        "text":"Other periodontal diseases"
+    }, {
+        "value":"K05.6",
+        "text":"Periodontal disease, unspecified"
+    }],
+},
+{
+    "value":"K06",
+    "text":"Other disorders of gingiva and edentulous alveolar ridge",
+    "diagnosis":[{
+        "value":"K06.0",
+        "text":"Gingival recession"
+    },{
+        "value":"K06.1",
+        "text":"Gingival enlargement"
+    },,{
+        "value":"K06.2",
+        "text":"Gingival and edentulous alveolar ridge lesions associated with trauma"
+    },{
+        "value":"K06.3",
+        "text":"Horizontal alveolar bone loss"
+    },{
+        "value":"K06.8",
+        "text":" Other specified disorders of gingiva and edentulous alveolar ridge"
+    },{
+        "value":"K06.9",
+        "text":"Disorder of gingiva and edentulous alveolar ridge, unspecified"
+    }]
+},
+{
+    "value":"K08",
+    "text":"Other disorders of teeth and supporting structures",
+    "diagnosis":[{
+        "value":"K08.0",
+        "text":"Exfoliation of teeth due to systemic causes"
+    }, {
+        "value":"K08.1",
+        "text":"Complete loss of teeth",
+        "diagnosis":[{
+            "value":"K08.10",
+            "text":"Complete loss of teeth, unspecified cause",
+            "diagnosis":[{
+                "value":"K08.101",
+                "text":"Class I"
+            }, {
+                "value":"K08.102",
+                "text":"Class II"
+            }, {
+                "value":"K08.103",
+                "text":"Class III"
+            }, {
+                "value":"K08.104",
+                "text":"Class IV"
+            }, {
+                "value":"K08.109",
+                "text":"Unspecified class"
+            }]
+        }, {
+            "value":"K08.11",
+            "text":"Complete loss of teeth due to trauma",
+            "diagnosis":[{
+                "value":"K08.111",
+                "text":"Class I"
+            }, {
+                "value":"K08.112",
+                "text":"Class II"
+            }, {
+                "value":"K08.113",
+                "text":"Class III"
+            }, {
+                "value":"K08.114",
+                "text":"Class IV"
+            }, {
+                "value":"K08.119",
+                "text":"Unspecified class"
+            }]
+        }, {
+            "value":"K08.12",
+            "text":"Complete loss of teeth due to periodontal diseases",
+            "diagnosis":[{
+                "value":"K08.121",
+                "text":"Class I"
+            }, {
+                "value":"K08.122",
+                "text":"Class II"
+            }, {
+                "value":"K08.123",
+                "text":"Class III"
+            }, {
+                "value":"K08.124",
+                "text":"Class IV"
+            }, {
+                "value":"K08.129",
+                "text":"Unspecified class"
+            }]
+        }, {
+            "value":"K08.13",
+            "text":"Complete loss of teeth due to caries",
+            "diagnosis":[{
+                "value":"K08.131",
+                "text":"Class I"
+            }, {
+                "value":"K08.132",
+                "text":"Class II"
+            }, {
+                "value":"K08.133",
+                "text":"Class III"
+            }, {
+                "value":"K08.134",
+                "text":"Class IV"
+            }, {
+                "value":"K08.139",
+                "text":"Unspecified class"
+            }]
+        }, {
+            "value":"K08.13",
+            "text":"Complete loss of teeth due to other specified cause",
+            "diagnosis":[{
+                "value":"K08.191",
+                "text":"Class I"
+            }, {
+                "value":"K08.192",
+                "text":"Class II"
+            }, {
+                "value":"K08.193",
+                "text":"Class III"
+            }, {
+                "value":"K08.194",
+                "text":"Class IV"
+            }, {
+                "value":"K08.199",
+                "text":"Unspecified class"
+            }]
+        }]
+    }, {
+        "value":"K08.2",
+        "text":"Atrophy of edentulous alveolar ridge",
+        "diagnosis":[{
+            "value":"K08.20",
+            "text":"Unspecified atrophy of edentulous alveolar ridge"
+        }, {
+            "value":"K08.21",
+            "text":"Minimal atrophy of the mandible"
+        }, {
+            "value":"K08.22",
+            "text":"Moderate atrophy of the mandible"
+        }, {
+            "value":"K08.23",
+            "text":"Severe atrophy of the mandible"
+        }, {
+            "value":"K08.24",
+            "text":"Minimal atrophy of maxilla"
+        }, {
+            "value":"K08.25",
+            "text":"Moderate atrophy of the maxilla"
+        }, {
+            "value":"K08.26",
+            "text":"Severe atrophy of the maxilla"
+        }]
+    }, {
+        "value":"K08.3",
+        "text": "Retained dental root"
+    }, {
+        "value":"K08.4",
+        "text": "Partial loss of teeth",
+        "diagnosis":[{
+            "value":"K08.40",
+            "text":"Partial loss of teeth, unspecified cause",
+            "diagnosis":[{
+                "value":"K08.401",
+                "text":"Class I"
+            }, {
+                "value":"K08.402",
+                "text":"Class II"
+            }, {
+                "value":"K08.403",
+                "text":"Class III"
+            }, {
+                "value":"K08.404",
+                "text":"Class IV"
+            }, {
+                "value":"K08.409",
+                "text":"Unspecified class"
+            }]
+        }, {
+            "value":"K08.41",
+            "text":"Partial loss of teeth due to trauma",
+            "diagnosis":[{
+                "value":"K08.411",
+                "text":"Class I"
+            }, {
+                "value":"K08.412",
+                "text":"Class II"
+            }, {
+                "value":"K08.413",
+                "text":"Class III"
+            }, {
+                "value":"K08.414",
+                "text":"Class IV"
+            }, {
+                "value":"K08.419",
+                "text":"Unspecified class"
+            }]
+        }, {
+            "value":"K08.42",
+            "text":"Partial loss of teeth due to periodontal diseases",
+            "diagnosis":[{
+                "value":"K08.421",
+                "text":"Class I"
+            }, {
+                "value":"K08.422",
+                "text":"Class II"
+            }, {
+                "value":"K08.423",
+                "text":"Class III"
+            }, {
+                "value":"K08.424",
+                "text":"Class IV"
+            }, {
+                "value":"K08.429",
+                "text":"Unspecified class"
+            }]
+        }, {
+            "value":"K08.43",
+            "text":"Partial loss of teeth due to caries",
+            "diagnosis":[{
+                "value":"K08.431",
+                "text":"Class I"
+            }, {
+                "value":"K08.432",
+                "text":"Class II"
+            }, {
+                "value":"K08.433",
+                "text":"Class III"
+            }, {
+                "value":"K08.434",
+                "text":"Class IV"
+            }, {
+                "value":"K08.439",
+                "text":"Unspecified class"
+            }]
+        }, {
+            "value":"K08.49",
+            "text":"Partial loss of teeth due to other specified cause",
+            "diagnosis":[{
+                "value":"K08.491",
+                "text":"Class I"
+            }, {
+                "value":"K08.492",
+                "text":"Class II"
+            }, {
+                "value":"K08.493",
+                "text":"Class III"
+            }, {
+                "value":"K08.494",
+                "text":"Class IV"
+            }, {
+                "value":"K08.499",
+                "text":"Unspecified class"
+            }]
+        }]
+    }, {
+        "value":"K08.5",
+        "text":"Unsatisfactory restoration of tooth",
+        "diagnosis":[{
+            "value":"K08.50",
+            "text":"Unspecified"
+        }, {
+            "value":"K08.51",
+            "text":"Open restoration margins of tooth"
+        },{
+            "value":"K08.52",
+            "text":"Unrepairable overhanging of dental restorative materials"
+        }, {
+            "value":"K08.53",
+            "text":"Fractured dental restorative material",
+            "diagnosis":[{
+                "value":"K08.530",
+                "text":"Without loss of material"
+            }, {
+                "value":"K08.531",
+                "text":"With loss of material"
+            }, {
+                "value":"K08.539",
+                "text":"Unspecified"
+            }]
+        }, {
+            "value":"K08.54",
+            "text":"Contour of existing restoration of tooth biologically incompatible with oral health"
+        }, {
+            "value":"K08.55",
+            "text":"Allergy to existing dental restorative material"
+        }, {
+            "value":"K08.56",
+            "text":"Poor aesthetic of existing restoration of tooth"
+        }, {
+            "value":"K08.59",
+            "text":"Other unsatisfactory restoration of tooth"
+        }]
+    },{
+        "value":"K08.8",
+        "text":"Other specified disorders of teeth and supporting structures",
+        "diagnosis":[{
+            "value":"K08.81",
+            "text":"Primary occlusal trauma"
+        }, {
+            "value":"K08.82",
+            "text":"Secondary occlusal trauma"
+        }, {
+            "value":"K08.89",
+            "text":"Other specified disorders of teeth and supporting structures"
+        }]
+    }, {
+        "value":"K08.9",
+        "text":"Disorder of teeth and supporting structures, unspecified"
+    }]
+},
+{
+    "value":"K09",
+    "text":"Cysts of oral region, not elsewhere classified",
+    "diagnosis":[{
+        "value":"K09.0",
+        "text":"Developmental odontogenic cysts"
+    }, {
+        "value":"K09.1",
+        "text":"Developmental (nonodontogenic) cysts of oral region"
+    }, {
+        "value":"K09.8",
+        "text":"Other cysts of oral region, not elsewhere classified"
+    }, {
+        "value":"K09.9",
+        "text":"Cyst of oral region, unspecified"
+    }]
+},
+{
+    "value":"K11",
+    "text":"Diseases of salivary glands",
+    "diagnosis":[{
+        "value":"K11.0",
+        "text":"Atrophy of salivary gland"
+    }, {
+        "value":"K11.1",
+        "text":"Hypertrophy of salivary gland"
+    }, {
+        "value":"K11.2",
+        "text":"K11.2 Sialoadenitis",
+        "diagnosis":[{
+            "value":"K11.20",
+            "text":"Unspecified"
+        },{
+            "value":"K11.21",
+            "text":"Acute sialoadenitis"
+        },{
+            "value":"K11.22",
+            "text":"Acute recurrent sialoadenitis"
+        },{
+            "value":"K11.23",
+            "text":"Chronic sialoadenitis"
+        }]
+    }, {
+        "value":"K11.3",
+        "text":"Abscess of salivary gland"
+    }, {
+        "value":"K11.4",
+        "text":"Fistula of salivary gland"
+    }, {
+        "value":"K11.5",
+        "text":"Sialolithiasis"
+    }, {
+        "value":"K11.6",
+        "text":"Mucocele of salivary gland"
+    }, {
+        "value":"K11.7",
+        "text":"Disturbances of salivary secretion"
+    }, {
+        "value":"K11.8",
+        "text":"Other diseases of salivary glands"
+    }, {
+        "value":"K11.9",
+        "text":"Disease of salivary gland, unspecified"
+    }]
+},
+{
+    "value":"K12",
+    "text":"Stomatitis and related lesions",
+    "diagnosis":[{
+        "value":"K12.0",
+        "text":"Recurrent oral aphthae"
+    },{
+        "value":"K12.1",
+        "text":"Other forms of stomatitis"
+    },{
+        "value":"K12.2",
+        "text":"Cellulitis and abscess of mouth"
+    },{
+        "value":"K12.3",
+        "text":"Oral mucositis (ulcerative)",
+        "diagnosis":[{
+            "value":"K12.30",
+            "text":"Unspecified"
+        },{
+            "value":"K12.31",
+            "text":"Due to antineoplastic therapy"
+        },{
+            "value":"K12.32",
+            "text":"Due to other drugs"
+        },{
+            "value":"K12.33",
+            "text":"due to radiation"
+        },{
+            "value":"K12.39",
+            "text":"Other oral mucositis (ulcerative)"
+        }]
+    }]
+},
+{
+    "value":"K13",
+    "text":"Other diseases of lip and oral mucosa",
+    "diagnosis":[{
+        "value":"K13.0",
+        "text":"Diseases of lips"
+    },{
+        "value":"K13.1",
+        "text":"Cheek and lip biting"
+    },{
+        "value":"K13.2",
+        "text":"Leukoplakia and other disturbances of oral epithelium, including tongue",
+        "diagnosis":[{
+            "value":"K13.21",
+            "text":"Leukoplakia of oral mucosa, including tongue"
+        },{
+            "value":"K13.22",
+            "text":"Minimal keratinized residual ridge mucosa"
+        },{
+            "value":"K13.23",
+            "text":"Excessive keratinized residual ridge mucosa"
+        },{
+            "value":"K13.24",
+            "text":"Leukokeratosis nicotina palati"
+        },{
+            "value":"K13.29",
+            "text":"Other disturbances of oral epithelium, including tongue"
+        }]
+    }, {
+        "value":"K13.3",
+        "text":"Hairy leukoplakia"
+    }, {
+        "value":"K13.4",
+        "text":" Granuloma and granuloma-like lesions of oral mucosa"
+    }, {
+        "value":"K13.5",
+        "text":"Oral submucous fibrosis"
+    }, {
+        "value":"K13.6",
+        "text":" Irritative hyperplasia of oral mucosa"
+    }, {
+        "value":"K13.7",
+        "text":"Other and unspecified lesions of oral mucosa",
+        "diagnosis":[{
+            "value":"K13.70",
+            "text":"Unspecified lesions of oral mucosa"
+        }, {
+            "value":"K13.79",
+            "text":"Other lesions of oral mucosa"
+        }]
+    }]
+},
+{
+    "value":"K14",
+    "text":"Diseases of tongue",
+    "diagnosis":[{
+        "value":"K14.0",
+        "text":"Glossitis"
+    },{
+        "value":"K14.1",
+        "text":"Geographic tongue"
+    },{
+        "value":"K14.2",
+        "text":"Median rhomboid glossitis"
+    }{
+        "value":"K14.3",
+        "text":"Hypertrophy of tongue papillae"
+    },{
+        "value":"K14.4",
+        "text":"Atrophy of tongue papillae"
+    },{
+        "value":"K14.5",
+        "text":"Plicated tongue"
+    },{
+        "value":"K14.6",
+        "text":"Glossodynia"
+    },{
+        "value":"K14.8",
+        "text":"Other diseases of tongue"
+    },{
+        "value":"K14.9",
+        "text":"Disease of tongue, unspecified"
+    }]
+}
